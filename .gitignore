@@ -1,0 +1,43 @@
+# -------------------------
+# Python & virtual environment
+# -------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Streamlit
+# -------------------------
+.streamlit/
+
+# -------------------------
+# macOS junk files
+# -------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# -------------------------
+# Logs, temp, cache
+# -------------------------
+*.log
+*.tmp
+*.swp
+*.swo
+
+# -------------------------
+# Environment variables / keys
+# -------------------------
+.env
+*.env
+.env.*
+secrets.json
+
+# -------------------------
+# VSCode settings
+# -------------------------
+.vscode/
